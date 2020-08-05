@@ -1,10 +1,9 @@
-# main links
 main:
   - title: "CV"
     url: /CV/
   - title: "Skins"
-  url: /areas/
+    url: /areas/
   - title: "Portfólio"
-  url: /portfolio/
+    url: /portfolio/
   # - title: "Posts"
   #   url: /posts/
