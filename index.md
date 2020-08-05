@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Sobre"
 order: 1
 author_profile: true
