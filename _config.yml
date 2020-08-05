@@ -93,11 +93,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Victor Rodrigues"
+  name             : "Prof. Victor Rodrigues"
   avatar           : /assets/images/bio-photo.jpg
   bio              : "Mestre em Ciência da Computação (Visão Computacional), Professor Universitário (Graduação e Pós-Graduação), Freelancer TI, Conteudista"
   location         : "Bauru, SP"
   email            : victorassisrd@gmail.com
+  github           : "victorrodrigues20"
+  linkedin         : "https://www.linkedin.com/in/victorassisrodrigues/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
