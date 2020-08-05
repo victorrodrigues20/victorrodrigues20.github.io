@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Sobre"
 author_profile: true
 permalink: /about/
