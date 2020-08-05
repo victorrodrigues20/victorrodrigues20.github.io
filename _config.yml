@@ -101,15 +101,9 @@ author:
   github           : "victorrodrigues20"
   linkedin         : "victorassisrodrigues"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/victorrodrigues20/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/victorassisrodrigues/"
+    - label: "lattes"
+      icon: "fas fa-fw fa-university"
+      url: "http://lattes.cnpq.br/9980210243718888"
 
 # Site Footer
 footer:
