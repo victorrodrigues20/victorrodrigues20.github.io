@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Victor Rodrigues"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Professor Universitário | Freelancer TI | Conteudista"
+  avatar           : /assets/images/bio-photo.jpg
+  bio              : "Mestre em Ciência da Computação (Visão Computacional), Professor Universitário (Graduação e Pós-Graduação), Freelancer TI, Conteudista"
   location         : "Bauru, SP"
   email            : victorassisrd@gmail.com
   links:
