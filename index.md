@@ -4,8 +4,6 @@ author_profile: true
 # permalink: /about/
 ---
 
-#### Atividades profissionais:
-
 * ***Professor Universitário (desde 2015):*** Graduação e Pós Graduação (MBA);
 * ***Conteudista*** disciplinas EAD - Ciência da Computação, TI e Jogos Digitais (desde 2019);
 * ***Freelancer TI***: consultoria e/ou desenvolvimento (plataforma .NET e Visão Computacional, desde 2018).  
