@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: page
+title: "Sobre"
+order: 1
 author_profile: true
 ---
 
@@ -32,3 +34,4 @@ Para mais detalhes sobre **disciplinas ministradas, orientações e publicaçõe
 * Mestrado em Ciência da Computação (UNESP, 2014)
 * Graduação em Bacharelado em Sistemas de Informação (FGP, 2011)
 * Técnico em Informática pela ETEC Comendador João Rays (Centro Paula Souza, 2006).
+
