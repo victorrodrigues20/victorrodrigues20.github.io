@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Sobre"
-order: 1
 author_profile: true
+permalink: /about/
 ---
 
 ## Profissional
