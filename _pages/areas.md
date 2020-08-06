@@ -6,10 +6,10 @@ permalink: /areas/
 Algumas ferramentas utilizadas para pesquisas e trabalhos atuais (últ. atualização: ago/2020):
 
 ### Visão Computacional, Machine Learning & Deep Learning
-* [OpenCV](https://opencv.org/about/) e [Tensorflow](https://www.tensorflow.org/)
-* [PYImage](https://pypi.org/project/pyimage/)
+* [OpenCV](https://opencv.org/about/)
 * [Sklearn](https://scikit-learn.org/stable/)
-* [Scikit-Fuzzy](https://pythonhosted.org/scikit-fuzzy/)
+* [Tensorflow](https://www.tensorflow.org/) e [PyTorch](https://pytorch.org/)
+* [YOLO](https://pjreddie.com/darknet/yolo/)
 * [Keras](https://keras.io/)
 * [Matplotlib](https://matplotlib.org/) e [Seaborn](https://seaborn.pydata.org/)
 

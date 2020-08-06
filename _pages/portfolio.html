@@ -1,0 +1,56 @@
+---
+title: "Portfólio"
+author_profile: true
+permalink: /portfolio/
+---
+
+<!-- {% for collection in site.collections %}
+  {% unless collection.output == false or collection.label == "posts" %}
+    {% capture label %}{{ collection.label }}{% endcapture %}
+    {% if label != written_label %}
+      {% if label == "_ia" %}
+        <h2 id="{{ label | slugify }}" class="archive__subtitle">Portfólio</h2>
+      {% endif %}
+      {% if label == "portfolio1" %}
+        <h2 id="{{ label | slugify }}" class="archive__subtitle">Orelha</h2>
+      {% endif %}
+      {% if label == "portfolio2" %}
+        <h2 id="{{ label | slugify }}" class="archive__subtitle">Nariz</h2>
+      {% endif %}
+      {% capture written_label %}{{ label }}{% endcapture %}
+    {% endif %}
+  {% endunless %}
+{% endfor %} -->
+
+<a href="#vc" ><img src="https://raster.shields.io/badge/-Vis%C3%A3o%20Computacional-green.png"></a>
+<!-- <a href="#ia" ><img src="https://raster.shields.io/badge/-Intelig%C3%AAncia%20Artificial-informational.png"></a> -->
+<a href="#cg" ><img src="https://raster.shields.io/badge/-Computa%C3%A7%C3%A3o%20Gr%C3%A1fica-red.png"></a>
+<!-- <a href="#outros" ><img src="https://raster.shields.io/badge/-Outros-lightgrey.png"></a> -->
+
+<a id="vc"></a><h3>Visão Computacional:</h3><hr>
+{% for post in site.portfolio_vc %}
+    {% unless collection.output == false or collection.label == "posts" %}
+      {% include archive-single.html %}
+    {% endunless %}
+{% endfor %}
+
+<!-- <a id="ia"></a><h3>IA, Machine Learning e Deep Learning</h3><hr>
+{% for post in site.portfolio_ia %}
+    {% unless collection.output == false or collection.label == "posts" %}
+      {% include archive-single.html %}
+    {% endunless %}
+{% endfor %} -->
+
+<a id="cg"></a><h3>Computação Gráfica - RV e RA</h3><hr>
+{% for post in site.portfolio_cg %}
+    {% unless collection.output == false or collection.label == "posts" %}
+      {% include archive-single.html %}
+    {% endunless %}
+{% endfor %}
+
+<!-- <a id="outros"></a><h3>Outros</h3><hr>
+{% for post in site.portfolio_outros %}
+    {% unless collection.output == false or collection.label == "posts" %}
+      {% include archive-single.html %}
+    {% endunless %}
+{% endfor %} -->

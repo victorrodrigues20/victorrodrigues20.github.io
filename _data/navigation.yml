@@ -2,6 +2,6 @@ main:
   - title: "Áreas"
     url: /areas/
   - title: "Portfólio"
-    url: /portfolio/
+    url: /portfolio
   # - title: "Posts"
   #   url: /posts/

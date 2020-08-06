@@ -1,3 +1,4 @@
+# Rodar projeto local: bundle exec jekyll serve
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -102,7 +103,7 @@ author:
   linkedin         : "victorassisrodrigues"
   links:
     - label: "lattes"
-      icon: "fas fa-fw fa-university"
+      icon: "fas fa fa-fw fa-university"
       url: "http://lattes.cnpq.br/9980210243718888"
 
 # Site Footer
@@ -115,7 +116,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/in/victorassisrodrigues
     - label: "Lattes"
-      icon: "fab fa-fw fa-university"
+      icon: "fab fa fa-fw fa-university"
       url: http://lattes.cnpq.br/9980210243718888
 
 
@@ -243,6 +244,16 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  portfolio_cg:
+    output: true
+  portfolio_ia:
+    output: true
+  portfolio_vc:
+    output: true
+  portfolio_outros:
+    output: true
 
 # Defaults
 defaults:
