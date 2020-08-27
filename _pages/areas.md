@@ -18,11 +18,11 @@ Porém, atuo também (com consultoria e desenvolvimento) em outros projetos:
 * Criação de APIs, Dashboards e relatórios (análise de dados)
 
 ### Visão Computacional, Machine Learning & Deep Learning
-* Reconhecimento e Rastreamento de objetos em imagens.
+* Reconhecimento e Rastreamento de objetos em imagens
 * Reconhecimento ótico de assinaturas e textos
 * Reconhecimento biométrico facial
-* Reconhecimento de placas de automóveis
 * Apoio para sistemas em Agricultura de Precisão
+* Análise de atenção e comportamento
 * Industria 4.0 e IoT *(Internet of Things)*
 
 ### Jogos Digitais - RA e RV
