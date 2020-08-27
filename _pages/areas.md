@@ -15,7 +15,7 @@ Porém, atuo também (com consultoria e desenvolvimento) em outros projetos:
 
 ### Desenvolvimento de Sistemas
 * Desenvolvedor .NET
-* Criação de APIs, Dashboards e relatórios (análise de dados)
+* Criação de APIs, *dashboards* e relatórios
 
 ### Visão Computacional, Machine Learning & Deep Learning
 * Reconhecimento e Rastreamento de objetos em imagens
@@ -27,7 +27,7 @@ Porém, atuo também (com consultoria e desenvolvimento) em outros projetos:
 
 ### Jogos Digitais - RA e RV
 * Realidade Virtual e Aumentada
-* Objetos de Aprendizagem (p/ cursos EAD e Ens. Híbrido)
+* Objetos de Aprendizagem
 * Simuladores e Jogos Digitais
 
 <br>
