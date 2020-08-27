@@ -1,27 +1,34 @@
 ---
-title: "Áreas e Tecnologias"
+title: "Linhas de Pesquisa"
 author_profile: true
 permalink: /areas/
 ---
-Algumas ferramentas utilizadas para pesquisas e trabalhos atuais (últ. atualização: ago/2020):
 
-### Visão Computacional, Machine Learning & Deep Learning
-* [OpenCV](https://opencv.org/about/)
-* [Sklearn](https://scikit-learn.org/stable/)
-* [Tensorflow](https://www.tensorflow.org/) e [PyTorch](https://pytorch.org/)
-* [YOLO](https://pjreddie.com/darknet/yolo/)
-* [Keras](https://keras.io/)
-* [Matplotlib](https://matplotlib.org/) e [Seaborn](https://seaborn.pydata.org/)
+<br>
+**Linha de pesquisa acadêmica (*PRINCIPAL*)**: Visão Computacional, Processamento de Imagens e Reconhecimento de Padrões.
 
-### Jogos Digitais - RA e RV
-* HTML5
-* [AFrame](https://aframe.io/) + [AR.js](https://ar-js-org.github.io/AR.js-Docs/)
-* [Unity3D](https://unity3d.com/pt/get-unity/download) + [Vuforia](https://developer.vuforia.com/)
+Porém, atuo também (com consultoria e desenvolvimento) em outros projetos:
+
+### Docência, Conteudista EAD / Ens. Híbrido
+* Disciplinas relacionadas à Ciência da Computação e TI
+* Disciplinas relacionadas à Jogos Digitais
 
 ### Desenvolvimento de Sistemas
-* [.NET Core](https://dotnet.microsoft.com/download) - MVC e WebAPI
-* [React](https://pt-br.reactjs.org/) - Web e PWA
-* [React Native](https://reactnative.dev/) - Mobile
+* Desenvolvedor .NET
+* Criação de APIs, Dashboards e relatórios (análise de dados)
 
-### Outros
-* [icCube](https://www.iccube.com/) - Business Analytics
+### Visão Computacional, Machine Learning & Deep Learning
+* Reconhecimento e Rastreamento de objetos em imagens.
+* Reconhecimento ótico de assinaturas e textos
+* Reconhecimento biométrico facial
+* Reconhecimento de placas de automóveis
+* Apoio para sistemas em Agricultura de Precisão
+* Industria 4.0 e IoT *(Internet of Things)*
+
+### Jogos Digitais - RA e RV
+* Realidade Virtual e Aumentada
+* Objetos de Aprendizagem (p/ cursos EAD e Ens. Híbrido)
+* Simuladores e Jogos Digitais
+
+<br>
+Para saber mais sobre as tecnologias utilizadas, [clique aqui](/libs/).

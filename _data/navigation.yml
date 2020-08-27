@@ -1,7 +1,7 @@
 main:
-  - title: "Áreas"
+  - title: "Linhas de Pesquisa"
     url: /areas/
   - title: "Portfólio"
     url: /portfolio
-  # - title: "Posts"
-  #   url: /posts/
+  - title: "Tecnologias"
+    url: /libs/

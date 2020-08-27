@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 * ***Professor Universitário (desde 2015):*** Graduação e Pós Graduação (MBA);
-* ***Conteudista*** EAD e Ens. Híbrido: Ciência da Computação, TI e Jogos Digitais (desde 2019);
+* ***Conteudista EAD e Ens. Híbrido:*** Ciência da Computação, TI e Jogos Digitais (desde 2019);
 * ***Freelancer TI:*** consultoria e/ou desenvolvimento (plataforma .NET e Visão Computacional, desde 2018).  
  * Experiência em ***desenvolvimento*** de sistemas desde 2008 (plataforma .NET, Angular, etc.);
  
