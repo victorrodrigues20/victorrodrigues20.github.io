@@ -15,7 +15,7 @@ Porém, atuo também (com consultoria e desenvolvimento) em outros projetos:
 
 ### Desenvolvimento de Sistemas
 * Desenvolvedor .NET
-* Criação de APIs, *dashboards* e relatórios
+* Criação de APIs, Dashboards e relatórios
 
 ### Visão Computacional, Machine Learning & Deep Learning
 * Reconhecimento e Rastreamento de objetos em imagens
