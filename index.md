@@ -4,10 +4,11 @@ author_profile: true
 # permalink: /about/
 ---
 
-* ***Professor Universitário (desde 2015):*** Graduação e Pós Graduação (MBA);
-* ***Conteudista EAD e Ens. Híbrido:*** Ciência da Computação, TI e Jogos Digitais (desde 2019);
+* ***Professor Universitário:*** Graduação, Pós-Graduação e MBA (desde 2015);
+* ***Professor Ens. Técnico:*** Informática (desde 2021);
+* ***Conteudista EAD:*** Ciência da Computação, TI e Jogos Digitais (desde 2019);
 * ***Freelancer TI:*** consultoria e/ou desenvolvimento (plataforma .NET e Visão Computacional, desde 2018).  
- * Experiência em ***desenvolvimento*** de sistemas desde 2008 (plataforma .NET, Angular, etc.);
+ * Experiência em ***desenvolvimento*** de sistemas (plataforma .NET, Angular e entre outras, desde 2008);
  
 Para mais detalhes sobre **experiência profissional (geral)**, por favor, acesse o
 <a  href="https://www.linkedin.com/in/victorassisrodrigues/"  target="_blank">**LinkedIn**</a>.
