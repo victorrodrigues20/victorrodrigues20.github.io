@@ -1,7 +1,7 @@
 ---
-title: "Portfólio de Projetos"
+title: "Portfólio de Materiais"
 author_profile: true
-permalink: /portfolio/
+permalink: /materiais/
 ---
 
 <!-- {% for collection in site.collections %}
@@ -22,17 +22,14 @@ permalink: /portfolio/
   {% endunless %}
 {% endfor %} -->
 
-<a href="#vc" ><img src="https://raster.shields.io/badge/-Vis%C3%A3o%20Computacional-green.png"></a>
+<a href="#bd" ><img src="https://raster.shields.io/badge/-Banco%20de%20Dados-blue.png"></a>
 <!-- <a href="#ia" ><img src="https://raster.shields.io/badge/-Intelig%C3%AAncia%20Artificial-informational.png"></a> -->
-<a href="#cg" ><img src="https://raster.shields.io/badge/-Computa%C3%A7%C3%A3o%20Gr%C3%A1fica-red.png"></a>
 <!-- <a href="#outros" ><img src="https://raster.shields.io/badge/-Outros-lightgrey.png"></a> -->
 
-<a id="vc"></a><h3>Visão Computacional:</h3><hr>
-{% for post in site.portfolio_vc %}
-    {% unless collection.output == false or collection.label == "posts" %}
-      {% include archive-single.html %}
-    {% endunless %}
-{% endfor %}
+<a id="bd"></a><h3>Banco de Dados:</h3><hr>
+<ul>
+    <li>Normalização de Banco de Dados&nbsp;<a target="_blank" href="https://docs.google.com/presentation/d/1m9Sn98TfoCMGOjiEZvP6L_9yTJedBRyW_YAVNtL7dyo/edit?usp=sharing"><img src="/assets/images/slides.PNG" width="20px"/></a>
+</ul>
 
 <!-- <a id="ia"></a><h3>IA, Machine Learning e Deep Learning</h3><hr>
 {% for post in site.portfolio_ia %}
@@ -40,13 +37,6 @@ permalink: /portfolio/
       {% include archive-single.html %}
     {% endunless %}
 {% endfor %} -->
-
-<a id="cg"></a><h3>Computação Gráfica - RV e RA</h3><hr>
-{% for post in site.portfolio_cg %}
-    {% unless collection.output == false or collection.label == "posts" %}
-      {% include archive-single.html %}
-    {% endunless %}
-{% endfor %}
 
 <!-- <a id="outros"></a><h3>Outros</h3><hr>
 {% for post in site.portfolio_outros %}

@@ -1,7 +1,9 @@
 main:
   - title: "Linhas de Pesquisa"
     url: /areas/
-  - title: "Portfólio"
+  - title: "Projetos"
     url: /portfolio
+  - title: "Materiais & Artigos"
+    url: /materiais
   - title: "Tecnologias"
     url: /libs/
