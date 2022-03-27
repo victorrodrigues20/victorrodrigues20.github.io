@@ -3,7 +3,7 @@ main:
     url: /areas/
   - title: "Projetos"
     url: /portfolio
-  - title: "Materiais & Artigos"
+  - title: "Materiais / Artigos"
     url: /materiais
   - title: "Tecnologias"
     url: /libs/
